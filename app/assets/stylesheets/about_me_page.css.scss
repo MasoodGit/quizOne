@@ -1,0 +1,28 @@
+// Place all the styles related to the aboutMePage controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+body {
+    background: url('/assets/fields_mountains_bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    font-family: 'Helvetica Neue',Helvetica;
+    color: white;
+  }
+
+  p {
+    font-weight: 200;
+  }
+
+  h1 {
+    font-size: 60px;
+    font-weight: 100;
+    margin: 0;
+  }
+
+  .box {
+    background-color: rgba(0,0,0,0.5);
+    padding: 20px;
+    width: 400px;
+    margin: 100px auto;
+    text-align: center;
+  }

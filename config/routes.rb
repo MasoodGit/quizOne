@@ -1,4 +1,5 @@
 QuizOne::Application.routes.draw do
+  root 'about_me_page#index'
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".
 
